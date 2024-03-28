@@ -1,5 +1,7 @@
 # nannou-workshop-trondheim
 
+** 📯There is an updated version og this workshop in https://github.com/rust-trondheim/rust-nannou-workshop that improves om this repo, so I recommemd checking that out. 🎉 **
+
 This is the repo for the [Rust Trondheim](https://www.meetup.com/rust-trondheim/) workshop in graphics programming with the [Nannou](https://nannou.cc/) library.
 
 ![alt text](./images/HappyCrab1_inocean.jpg)
